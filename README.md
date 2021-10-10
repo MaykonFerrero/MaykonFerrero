@@ -1,6 +1,6 @@
 ### Maykon Ferreira 👋 
 
-- 🔭 I’m currently working on FUEA as a Back-End developer
+- 🔭 I’m currently working at FUEA as a Back-End developer
 - 🌱 I’m currently learning about another languages such as Python and Java 👀
 - 👯 I’m looking to collaborate on C# / .NET projects 
 
