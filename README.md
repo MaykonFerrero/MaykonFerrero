@@ -1,8 +1,8 @@
 ### Maykon Ferreira 👋 
 
-- 🔭 I’m currently working at FUEA as a Back-End developer
-- 🌱 I’m currently learning about another languages such as Python and Java 👀
-- 👯 I’m looking to collaborate on C# / .NET projects 
+- 🔭 I’m currently open to work in Canada
+- 🌱 I’m currently studying Python and C as languages to support embedded projects 👀
+- 👯 I’m looking to collaborate on C# / .NET projects and also help in low-level protocol analysis related to Android's modem
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykonFerrero&show_icons=true&theme=radical)
