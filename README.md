@@ -1,11 +1,17 @@
-### Maykon Ferreira 👋 
+### 💼 Software Engineer @ Airmarket
+Building real-time drone telemetry and airspace (UTM) systems: Apache Flink pipelines on Kafka/MQTT,
+FastAPI services, and integrations with DJI FlightHub 2, ADS-B, Remote ID and MAVLink.
 
-- 🔭 I’m currently open to work in Canada
-- 🌱 I’m currently interested in using Python and C as languages to support embedded projects 👀
-- 👯 I’m looking to collaborate on C# / .NET projects and also help in low-level protocol analysis related to Android's modem
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaykonFerrero&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykonFerrero)](https://github.com/MaykonFerrero/github-readme-stats)
-
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
