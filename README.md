@@ -42,4 +42,10 @@ ADS-B, Remote ID and MAVLink.
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
 
 ### 📊 GitHub stats
-![Metrics](https://raw.githubusercontent.com/MaykonFerrero/MaykonFerrero/main/github-metrics.svg)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaykonFerrero&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykonFerrero&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=MaykonFerrero&theme=transparent&hide_border=true" alt="GitHub streak" />
+
